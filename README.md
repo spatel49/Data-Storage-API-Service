@@ -56,24 +56,3 @@ DELETE /data/{repository}/{objectID}
 Status: 200 OK
 ```
 
-## Getting started and Testing
-
-This exercise requires a recent version of Node.js. Get started by installing dependencies:
-
-```sh
-npm install
-```
-
-Write your server implementation in `server.js`. Then run the tests:
-
-```sh
-npm test
-```
-
-Or run them continuously as you work:
-
-```sh
-npm run test-watch
-```
-
-Once you have a working implementation, open a pull request that includes your changes.
